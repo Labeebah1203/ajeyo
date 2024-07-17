@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    color: black;
+    font-family:"space grotesk";
+}
+img{
+    max-width: 500px;
+    height: 400px;
+}
+
+
+a {
+text-decoration: none;
+color: inherit;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr,th,td{
+    border: 2px solid blue;
+    padding: 2.1rem;
+}
+
+
+
+.title{
+
+}
+.menu-container{
+    nav-down: auto;
+}
+.list-item{
+
+}
+.hero-image{
+    width: 500px;
+    height: 500px;
+}
+
+iframe{
+    width: 300px;
+    height: 300px;
+}
